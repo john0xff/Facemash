@@ -1,0 +1,1 @@
+<fb:login-button perms="user_birthday,email,user_interests,friends_interests,user_likes,friends_likes,offline_access">Login with Facebook</fb:login-button>

@@ -1,0 +1,2 @@
+<p class="copyright"><a href="http://www.alexnevsky.com" class="copyright">a Alex Nevsky production</a></p>
+<p class="copyright"><a href="http://www.atenwood.com" class="copyright">Atenwood &copy; 2011 &middot; From Russia with Love.</a></p>
