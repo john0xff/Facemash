@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Facemash</string>
+
+	<string name="who_is_hotter">Who\'s Hotter? Click to Choose.</string>
+	<string name="or">OR</string>
+	<string name="celebrities_boys">Celebrities [Boys]</string>
+	<string name="celebrities_girls">Celebrities [Girls]</string>
+	<string name="choose_one_more">Okay, well done! Choose one more to start the next round!</string>
+
+	<string name="action_about">About</string>
+	<string name="action_top100">Top 100</string>
+
+	<string name="title_activity_about">About</string>
+	<string name="title_activity_top100">TOP 100</string>
+</resources>
